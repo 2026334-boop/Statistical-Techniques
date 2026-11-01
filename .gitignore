@@ -1,0 +1,2 @@
+.ipynb_checkpoints/
+.~lock* git rm -r --cached .ipynb_checkpoints
